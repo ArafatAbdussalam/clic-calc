@@ -1,0 +1,48 @@
+body {
+    background-color: bisque;
+    font-family: sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.calculator {
+    position: absolute;
+    background-color: palevioletred;
+    width: 300px;
+    height: 320px;
+    margin: 0 auto;
+}
+
+#display {
+    display: block;
+    height: 50px;
+    background-color:aliceblue;
+    margin: 5px;
+}
+
+.calculator button {
+    height: 50px;
+    width: 70px;
+    background-color: aliceblue;
+    margin: 0px;
+    border-radius: 8px;
+}
+
+#display{
+    font-size:35px;
+    text-align:right;
+    overflow:auto;
+    background-color: aliceblue;
+  }
+
+#result {
+    width: 290px;
+    margin: 2px;
+}
+
+button{
+    color: palevioletred;
+    font-size: 20px;
+}
