@@ -1,2 +1,2 @@
 # clic-calc
-A JavaScript Calculator
+A simple JavaScript Calculator
